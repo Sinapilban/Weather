@@ -1,16 +1,12 @@
 # water
 
-A new Flutter project.
+برای تمرین کردن اتصال پروژه به API پروژه آب و هوا را ساختم 
+در این پروژه علاوه بر نشان دادن آب و هوای بعضی از شهر های جهان 
+از جمله ایران - امریکا - چین - المان -
+ساعت رسمی پایتخت کشور را نیز نشان داده شده است. 
+این پروژه از Getx استفاده نشده ولی حالت dark , white برای صفحه اصلی به کار برده شده است .
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI waether (1)](https://github.com/Sinapilban/Weather/assets/92651776/2f1a3637-6050-47a3-b203-a6801305dbf3)
+حالت روشن 
+![UI waether (3)](https://github.com/Sinapilban/Weather/assets/92651776/de341a55-eba0-4568-bb41-6ceb619ee3fd)
+حالت دارک 
